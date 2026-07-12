@@ -68,19 +68,28 @@ The exploratory data analysis revealed several insights into customer purchasing
 
 #### Age Distribution
 
-![Age Distribution](images/age_distribution.png)
+<img width="607" height="242" alt="image" src="https://github.com/user-attachments/assets/c4bf10d0-0241-43ea-ab7d-9af6004d33ba" />
 
-#### Age vs Spending Score
+### Histogram of Spending Score
 
-![Age vs Spending Score](images/age_vs_spending_score.png)
+<img width="872" height="596" alt="image" src="https://github.com/user-attachments/assets/47b8514d-2d03-49e3-9fe0-b419eb6d34f3" />
+
+### Histogram of Annual Income 
+
+<img width="1007" height="611" alt="image" src="https://github.com/user-attachments/assets/41c746e3-b056-4fa0-8c46-483d39211571" />
+
+#### Customer Type vs Spending Score
+
+<img width="1007" height="611" alt="image" src="https://github.com/user-attachments/assets/f8e23d0c-205e-4d69-a7a8-f4a327213697" />
 
 #### Annual Income vs Spending Score
 
-![Annual Income vs Spending Score](images/income_vs_spending.png)
+<img width="912" height="587" alt="image" src="https://github.com/user-attachments/assets/2fd8c0b5-8d4f-4301-84f9-9a5921beb153" />
 
 #### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+<img width="667" height="476" alt="image" src="https://github.com/user-attachments/assets/3c14d201-1379-45a3-bf9b-2fbe64bd4b33" />
+
 
 ### Summary
 
