@@ -131,4 +131,3 @@ Customer-Behavior-Analysis/
     ├── spending_score_customer_type.png    # Boxplot of spending score by customer type
     ├── annual_income_vs_spending_score.png # Scatter plot showing income vs spending relationship
     └── correlation_heatmap.png             # Correlation analysis heatmap
----
