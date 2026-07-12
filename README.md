@@ -78,11 +78,11 @@ The exploratory data analysis revealed several insights into customer purchasing
 
 <img width="1007" height="611" alt="image" src="https://github.com/user-attachments/assets/41c746e3-b056-4fa0-8c46-483d39211571" />
 
-#### Customer Type vs Spending Score
+#### Boxplot of SpendingScore by CustomerType
 
 <img width="1007" height="611" alt="image" src="https://github.com/user-attachments/assets/f8e23d0c-205e-4d69-a7a8-f4a327213697" />
 
-#### Annual Income vs Spending Score
+#### Annual Income vs Spending Score Scatter Plot
 
 <img width="912" height="587" alt="image" src="https://github.com/user-attachments/assets/2fd8c0b5-8d4f-4301-84f9-9a5921beb153" />
 
