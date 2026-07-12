@@ -5,13 +5,13 @@ Customer Behavior Analysis Using Python
 
 This project analyzes customer purchasing behavior using Python to identify spending patterns, customer demographics, and purchasing trends. Exploratory Data Analysis (EDA) techniques and visualizations are used to uncover meaningful business insights.
 
------
+---
 
 ## Objective
 
 The objective of this project is to analyze customer purchase data and identify factors influencing customer spending behavior. The project demonstrates data analysis and visualization skills using Python.
 
------
+---
 
 ## Dataset
 
@@ -23,7 +23,7 @@ The dataset contains customer purchasing information, including:
 - AnnualIncome
 - SpendingScore
   
------
+---
 
 ## Data Preparation
 
@@ -35,7 +35,7 @@ The following preprocessing steps were performed:
 - Reviewed the column names and data types.
 - Prepared the dataset for exploratory data analysis.
 
------
+---
 
 ## Exploratory Data Analysis
 
@@ -59,7 +59,8 @@ Visualizations created include:
 - Scatter Plots
 - Correlation Heatmap
 
------
+---
+
 ## Results
 
 The exploratory data analysis revealed several insights into customer purchasing behavior.
@@ -90,6 +91,7 @@ The exploratory data analysis revealed several insights into customer purchasing
 
 <img width="667" height="476" alt="image" src="https://github.com/user-attachments/assets/3c14d201-1379-45a3-bf9b-2fbe64bd4b33" />
 
+---
 
 ### Summary
 
@@ -97,7 +99,7 @@ The exploratory data analysis revealed several insights into customer purchasing
 - Customers with similar annual incomes can have very different spending scores.
 - Exploratory analysis highlights patterns that can support customer segmentation and marketing strategies.
 
------
+---
 
 ## Key Findings
 
@@ -106,7 +108,7 @@ The exploratory data analysis revealed several insights into customer purchasing
 - Customer demographics reveal differences in purchasing behavior.
 - Exploratory visualizations help identify patterns that can support customer segmentation and targeted marketing strategies.
 
------
+---
 
 ## Repository Structure
 
@@ -122,7 +124,7 @@ Customer-Behavior-Analysis/
     ├── income_vs_spending.png
     └── correlation_heatmap.png
 
------
+---
 
 ## Technologies Used
 
@@ -132,7 +134,7 @@ Customer-Behavior-Analysis/
 - Seaborn
 - Jupyter Notebook
 
------
+---
 
 ## How to Run
 
@@ -147,7 +149,7 @@ pip install -r requirements.txt
 
 4. Run all cells.
 
------
+---
 
 ## Future Improvements
 
@@ -156,4 +158,4 @@ pip install -r requirements.txt
 - Develop predictive models to forecast customer spending.
 - Create an interactive dashboard using Power BI or Tableau.
 
------
+---
