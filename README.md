@@ -124,6 +124,7 @@ Customer-Behavior-Analysis/
     ├── annual_income_vs_spending_score.png
     └── correlation_heatmap.png
 ```
+---
 
 ## Technologies Used
 
