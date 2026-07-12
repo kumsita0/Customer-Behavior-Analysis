@@ -109,6 +109,38 @@ The exploratory data analysis revealed several insights into customer purchasing
 - Exploratory visualizations help identify patterns that can support customer segmentation and targeted marketing strategies.
 
 ---
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## How to Run
+
+1. Clone this repository.
+2. Install the required packages.
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the notebook in Jupyter Notebook.
+
+4. Run all cells.
+
+---
+
+## Future Improvements
+
+- Perform missing value and duplicate record analysis.
+- Build customer segmentation models using clustering.
+- Develop predictive models to forecast customer spending.
+- Create an interactive dashboard using Power BI or Tableau.
+
 ---
 ## Repository Structure
 
