@@ -145,13 +145,10 @@ pip install -r requirements.txt
 ## Repository Structure
 
 ```text
-Customer-Behavior-Analysis/
-│
-├── customer_behavior_analysis.ipynb        # Main Jupyter Notebook containing Python code for data exploration, statistical analysis, customer segmentation insights, and visualization |
-│
-├── customer_purchase_behavior.csv          #  Dataset containing customer demographic and purchasing behavior information used for analysis |
-│
-├── README.md                               # Contains project overview, business objective, dataset information, methodology, visualizations, findings, and project results |
-│
-├── requirements.txt                        #  Contains required Python packages and dependencies needed to execute the analysis |
 
+| File / Folder | Description |
+|---------------|-------------|
+| `customer_behavior_analysis.ipynb` | Main Jupyter Notebook containing Python code for data exploration, statistical analysis, customer segmentation insights, and visualization |
+| `customer_purchase_behavior.csv` | Dataset containing customer demographic and purchasing behavior information used for analysis |
+| `README.md` | Contains project overview, business objective, dataset information, methodology, visualizations, findings, and project results |
+| `requirements.txt` | Contains required Python packages and dependencies needed to execute the analysis |
