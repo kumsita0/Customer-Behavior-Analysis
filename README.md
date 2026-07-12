@@ -5,6 +5,9 @@ Customer Behavior Analysis Using Python
 
 This project analyzes customer purchasing behavior using Python to identify spending patterns, customer demographics, and purchasing trends. Exploratory Data Analysis (EDA) techniques and visualizations are used to uncover meaningful business insights.
 
+<img width="1467" height="792" alt="image" src="https://github.com/user-attachments/assets/d547d1e2-ff88-4b30-ad2b-f9726633a5d5" />
+
+
 ---
 
 ## Objective
