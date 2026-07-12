@@ -70,11 +70,11 @@ The exploratory data analysis revealed several insights into customer purchasing
 
 <img width="607" height="242" alt="image" src="https://github.com/user-attachments/assets/c4bf10d0-0241-43ea-ab7d-9af6004d33ba" />
 
-### Histogram of Spending Score
+#### Histogram of Spending Score
 
 <img width="872" height="596" alt="image" src="https://github.com/user-attachments/assets/47b8514d-2d03-49e3-9fe0-b419eb6d34f3" />
 
-### Histogram of Annual Income 
+#### Histogram of Annual Income 
 
 <img width="1007" height="611" alt="image" src="https://github.com/user-attachments/assets/41c746e3-b056-4fa0-8c46-483d39211571" />
 
