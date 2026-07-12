@@ -109,22 +109,21 @@ The exploratory data analysis revealed several insights into customer purchasing
 - Exploratory visualizations help identify patterns that can support customer segmentation and targeted marketing strategies.
 
 ---
-
 ## Repository Structure
 
+```text
 Customer-Behavior-Analysis/
 │
-├── customer_behavior_analysis.ipynb
-├── customer_purchase_behavior.csv
-├── requirements.txt
-├── README.md
-└── images/
+├── customer_behavior_analysis.ipynb      # Jupyter Notebook containing the complete analysis
+├── customer_purchase_behavior.csv        # Customer behavior dataset
+├── README.md                             # Project documentation
+├── requirements.txt                      # Required Python libraries
+└── images/                               # Project screenshots
     ├── age_distribution.png
     ├── age_vs_spending_score.png
-    ├── income_vs_spending.png
+    ├── annual_income_vs_spending_score.png
     └── correlation_heatmap.png
-
----
+```
 
 ## Technologies Used
 
