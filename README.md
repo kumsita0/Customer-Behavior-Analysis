@@ -147,19 +147,11 @@ pip install -r requirements.txt
 ```text
 Customer-Behavior-Analysis/
 │
-├── customer_behavior_analysis.ipynb        # Jupyter Notebook containing complete EDA and analysis
+├── customer_behavior_analysis.ipynb        # Main Jupyter Notebook containing Python code for data exploration, statistical analysis, customer segmentation insights, and visualization |
 │
-├── customer_purchase_behavior.csv          # Customer purchase behavior dataset
+├── customer_purchase_behavior.csv          #  Dataset containing customer demographic and purchasing behavior information used for analysis |
 │
-├── README.md                               # Project documentation and analysis summary
+├── README.md                               # Contains project overview, business objective, dataset information, methodology, visualizations, findings, and project results |
 │
-├── requirements.txt                        # Required Python libraries
-│
-└── images/                                 # Project visualization outputs
-    │
-    ├── age_distribution.png                # Distribution of customer ages
-    ├── spending_score_distribution.png     # Histogram of spending scores
-    ├── annual_income_distribution.png      # Histogram of annual income
-    ├── spending_score_customer_type.png    # Boxplot of spending score by customer type
-    ├── annual_income_vs_spending_score.png # Scatter plot showing income vs spending relationship
-    └── correlation_heatmap.png             # Correlation analysis heatmap
+├── requirements.txt                        #  Contains required Python packages and dependencies needed to execute the analysis |
+
